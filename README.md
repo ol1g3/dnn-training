@@ -1,1 +1,1 @@
-# dnn-training
+# Memory-Efficient Pipeline-Parallel DNN Training
